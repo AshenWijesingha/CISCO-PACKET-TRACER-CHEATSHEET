@@ -1,4 +1,4 @@
-Temp
-====
+CISCO Packet Tracer Cheat Sheet
+===============================
 
-A simple repository  Full of Garbage and dust.
+A repository containing cheat sheet of CISCO PACKET TRACER of  "Computer Networking" CS Course
